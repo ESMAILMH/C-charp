@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAF3412-5064-4B19-8019-6ED6899A43F3}|WindowsFormsApp1\\Family-form.csproj|C:\\Users\\pc\\Desktop\\WindowsFormsApp1\\windowsformsapp1\\fproject\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCAF3412-5064-4B19-8019-6ED6899A43F3}|WindowsFormsApp1\\Family-form.csproj|solutionrelative:windowsformsapp1\\fproject\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAF3412-5064-4B19-8019-6ED6899A43F3}|WindowsFormsApp1\\Family-form.csproj|c:\\users\\pc\\desktop\\windowsformsapp1\\windowsformsapp1\\fproject\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CCAF3412-5064-4B19-8019-6ED6899A43F3}|WindowsFormsApp1\\Family-form.csproj|solutionrelative:windowsformsapp1\\fproject\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAF3412-5064-4B19-8019-6ED6899A43F3}|WindowsFormsApp1\\Family-form.csproj|C:\\Users\\pc\\Desktop\\WindowsFormsApp1\\windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCAF3412-5064-4B19-8019-6ED6899A43F3}|WindowsFormsApp1\\Family-form.csproj|solutionrelative:windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAF3412-5064-4B19-8019-6ED6899A43F3}|WindowsFormsApp1\\Family-form.csproj|C:\\Users\\pc\\Desktop\\WindowsFormsApp1\\windowsformsapp1\\fproject\\frm_message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCAF3412-5064-4B19-8019-6ED6899A43F3}|WindowsFormsApp1\\Family-form.csproj|solutionrelative:windowsformsapp1\\fproject\\frm_message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAF3412-5064-4B19-8019-6ED6899A43F3}|WindowsFormsApp1\\Family-form.csproj|C:\\Users\\pc\\Desktop\\WindowsFormsApp1\\windowsformsapp1\\fproject\\frm_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CCAF3412-5064-4B19-8019-6ED6899A43F3}|WindowsFormsApp1\\Family-form.csproj|solutionrelative:windowsformsapp1\\fproject\\frm_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAF3412-5064-4B19-8019-6ED6899A43F3}|WindowsFormsApp1\\Family-form.csproj|C:\\Users\\pc\\Desktop\\WindowsFormsApp1\\windowsformsapp1\\fproject\\frm_message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CCAF3412-5064-4B19-8019-6ED6899A43F3}|WindowsFormsApp1\\Family-form.csproj|solutionrelative:windowsformsapp1\\fproject\\frm_message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAF3412-5064-4B19-8019-6ED6899A43F3}|WindowsFormsApp1\\Family-form.csproj|C:\\Users\\pc\\Desktop\\WindowsFormsApp1\\windowsformsapp1\\fproject\\frm_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCAF3412-5064-4B19-8019-6ED6899A43F3}|WindowsFormsApp1\\Family-form.csproj|solutionrelative:windowsformsapp1\\fproject\\frm_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\fproject\\frm_main.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\fproject\\frm_main.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\fproject\\frm_main.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\fproject\\frm_main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T09:34:49.089Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm_main.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\fproject\\frm_main.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\fproject\\frm_main.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\fproject\\frm_main.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\fproject\\frm_main.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAiwG4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T09:28:53.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frm_message.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\fproject\\frm_message.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\fproject\\frm_message.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\fproject\\frm_message.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\fproject\\frm_message.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T10:05:29.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frm_message.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\fproject\\frm_message.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\fproject\\frm_message.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\fproject\\frm_message.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\fproject\\frm_message.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T10:04:44.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T10:22:19.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frm_login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\fproject\\frm_login.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\fproject\\frm_login.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\fproject\\frm_login.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\fproject\\frm_login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T09:30:57.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frm_login.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\fproject\\frm_login.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\fproject\\frm_login.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\WindowsFormsApp1\\WindowsFormsApp1\\fproject\\frm_login.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\fproject\\frm_login.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T09:31:18.578Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
