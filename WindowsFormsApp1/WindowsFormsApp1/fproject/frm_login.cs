@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace WindowsFormsApp1.fproject
@@ -31,9 +24,9 @@ namespace WindowsFormsApp1.fproject
         private void btn_login_Click(object sender, EventArgs e)
         {
             try
-            {  
-                    
-               
+            {
+
+
                 if (txt_name.Text == "admin" && txt_pssword.Text == "admin")
                 {
                     Form Show_message = new frm_message("Seccesfully login ");
@@ -49,7 +42,7 @@ namespace WindowsFormsApp1.fproject
                     {
                         Form Show_message = new frm_message("Please enter both username and password.");
                         Show_message.Show();
-                       
+
                         return;
                     }
                     else if (string.IsNullOrEmpty(txt_name.Text))
@@ -58,7 +51,8 @@ namespace WindowsFormsApp1.fproject
                         Show_message.Show();
                         return;
                     }
-                    else {
+                    else
+                    {
                         Form Show_message = new frm_message("Please enter both username and password.");
                         Show_message.Show();
                         return;

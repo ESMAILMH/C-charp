@@ -1,15 +1,5 @@
-﻿using Google.Protobuf.WellKnownTypes;
-using MySql.Data.MySqlClient;
-using MySql.Data.MySqlClient;
-using System;
-using System.Collections.Generic;
+﻿using System;
 using System.ComponentModel;
-using System.Data;
-using System.Data.SqlClient;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace WindowsFormsApp1.test_form
@@ -21,14 +11,14 @@ namespace WindowsFormsApp1.test_form
         public sum()
         {
             InitializeComponent();
-               }
+        }
 
-        
+
 
         private void button1_Click(object sender, EventArgs e)
         {
             int number1, number2, result;
-            
+
             result = 0;
             if (txt1.Text.Length > 0 && txt2.Text.Length > 0)
             {
@@ -54,7 +44,7 @@ namespace WindowsFormsApp1.test_form
 
         }
 
-     
+
 
         private void saveFileDialog1_FileOk(object sender, CancelEventArgs e)
         {

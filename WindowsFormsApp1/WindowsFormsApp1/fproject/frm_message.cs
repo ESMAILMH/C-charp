@@ -1,18 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace WindowsFormsApp1.fproject
 {
     public partial class frm_message : Form
     {
-        public frm_message(string message )
+        public frm_message(string message)
         {
             InitializeComponent();
 

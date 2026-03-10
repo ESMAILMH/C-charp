@@ -1,11 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using System.Windows.Forms;
-using WindowsFormsApp1.Forms;
 using WindowsFormsApp1.fproject;
-using WindowsFormsApp1.test_form;
 
 namespace WindowsFormsApp1
 {

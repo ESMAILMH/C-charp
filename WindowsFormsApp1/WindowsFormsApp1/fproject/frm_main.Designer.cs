@@ -113,27 +113,28 @@
             // 
             // btn_showPassword
             // 
-            this.btn_showPassword.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btn_showPassword.BackgroundImage")));
             this.btn_showPassword.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.btn_showPassword.FlatAppearance.BorderSize = 0;
             this.btn_showPassword.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn_showPassword.Location = new System.Drawing.Point(917, 356);
+            this.btn_showPassword.Image = ((System.Drawing.Image)(resources.GetObject("btn_showPassword.Image")));
+            this.btn_showPassword.Location = new System.Drawing.Point(918, 356);
             this.btn_showPassword.Name = "btn_showPassword";
-            this.btn_showPassword.Size = new System.Drawing.Size(38, 31);
+            this.btn_showPassword.Size = new System.Drawing.Size(34, 31);
             this.btn_showPassword.TabIndex = 18;
             this.btn_showPassword.UseVisualStyleBackColor = true;
             // 
             // btn_resetPassword
             // 
-            this.btn_resetPassword.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btn_resetPassword.BackgroundImage")));
             this.btn_resetPassword.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.btn_resetPassword.FlatAppearance.BorderSize = 0;
             this.btn_resetPassword.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn_resetPassword.Location = new System.Drawing.Point(961, 356);
+            this.btn_resetPassword.Image = ((System.Drawing.Image)(resources.GetObject("btn_resetPassword.Image")));
+            this.btn_resetPassword.Location = new System.Drawing.Point(958, 355);
             this.btn_resetPassword.Name = "btn_resetPassword";
-            this.btn_resetPassword.Size = new System.Drawing.Size(38, 31);
+            this.btn_resetPassword.Size = new System.Drawing.Size(34, 32);
             this.btn_resetPassword.TabIndex = 17;
             this.btn_resetPassword.UseVisualStyleBackColor = true;
+            this.btn_resetPassword.Click += new System.EventHandler(this.btn_resetPassword_Click);
             // 
             // btn_resetPassId
             // 
@@ -146,6 +147,7 @@
             this.btn_resetPassId.Size = new System.Drawing.Size(38, 31);
             this.btn_resetPassId.TabIndex = 16;
             this.btn_resetPassId.UseVisualStyleBackColor = true;
+            this.btn_resetPassId.Click += new System.EventHandler(this.btn_resetPassId_Click);
             // 
             // label2
             // 
@@ -240,6 +242,7 @@
             this.txt_passid.Font = new System.Drawing.Font("Leelawadee UI", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txt_passid.Location = new System.Drawing.Point(195, 311);
             this.txt_passid.Name = "txt_passid";
+            this.txt_passid.ReadOnly = true;
             this.txt_passid.Size = new System.Drawing.Size(190, 31);
             this.txt_passid.TabIndex = 6;
             // 
@@ -283,6 +286,7 @@
             this.btn_Search.TabIndex = 2;
             this.btn_Search.Text = "Search";
             this.btn_Search.UseVisualStyleBackColor = false;
+            this.btn_Search.Click += new System.EventHandler(this.btn_Search_Click);
             // 
             // btn_new
             // 

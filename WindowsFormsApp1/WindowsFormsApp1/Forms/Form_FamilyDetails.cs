@@ -89,7 +89,7 @@ namespace WindowsFormsApp1.Forms
                 numDaughterAge.Value = 0;
                 txtDaughterWorkPlace.Clear();
                 txtDaughterPhone.Clear();
-                txtDaughterNationalID.Focus();                          
+                txtDaughterNationalID.Focus();
             }
         }
 
@@ -97,6 +97,6 @@ namespace WindowsFormsApp1.Forms
         public int SonsCount => dgvSons?.Rows.Count ?? 0;
         public int DaughtersCount => dgvDaughters?.Rows.Count ?? 0;
 
-        
+
     }
 }

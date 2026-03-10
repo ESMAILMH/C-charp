@@ -2,11 +2,6 @@
 using System.Linq;
 using System.Windows.Forms;
 
-
-using System;
-using System.Linq;
-using System.Windows.Forms;
-
 namespace WindowsFormsApp1.Forms
 {
     public partial class Father : Form
