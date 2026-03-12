@@ -16,7 +16,7 @@ namespace WindowsFormsApp1.fproject
 
         private void frm_main_Load(object sender, EventArgs e)
         {
-
+            txt_pssword.UseSystemPasswordChar = true;
             if (!File.Exists(DatabasePath))
             {
                 File.Create(DatabasePath).Close();
@@ -212,6 +212,28 @@ namespace WindowsFormsApp1.fproject
 
             return new string(password);
         }
+
+        private void btn_showPassword_Click(object sender, EventArgs e)
+        {
+            txt_pssword.UseSystemPasswordChar = !txt_pssword.UseSystemPasswordChar;
+            btn_showPassword.Text = txt_pssword.UseSystemPasswordChar ? "Show Password" : "Hide Password";
+
+        }
+
+        private void btn_cancel_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
+
+        private void dGVpass_CellFormatting(object sender, DataGridViewCellFormattingEventArgs e)
+        {
+            if (e.ColumnIndex == 3 && e.Value != null)
+            {
+                e.Value = new string('*', e.Value.ToString().Length);
+                e.FormattingApplied = true;
+            }
+        }
+
     }
 
 }

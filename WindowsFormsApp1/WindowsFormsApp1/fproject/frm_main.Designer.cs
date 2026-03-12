@@ -29,8 +29,8 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frm_main));
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
             this.pnltop = new System.Windows.Forms.Panel();
             this.lbltop = new System.Windows.Forms.Label();
             this.pnlmid = new System.Windows.Forms.Panel();
@@ -122,6 +122,7 @@
             this.btn_showPassword.Size = new System.Drawing.Size(34, 31);
             this.btn_showPassword.TabIndex = 18;
             this.btn_showPassword.UseVisualStyleBackColor = true;
+            this.btn_showPassword.Click += new System.EventHandler(this.btn_showPassword_Click);
             // 
             // btn_resetPassword
             // 
@@ -310,13 +311,13 @@
             this.dGVpass.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.dGVpass.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.dGVpass.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            dataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle1.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dGVpass.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle1;
+            dataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle3.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle3.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle3.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dGVpass.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle3;
             this.dGVpass.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dGVpass.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.PassId,
@@ -327,12 +328,13 @@
             this.dGVpass.Location = new System.Drawing.Point(13, 3);
             this.dGVpass.Name = "dGVpass";
             this.dGVpass.RowHeadersWidth = 51;
-            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            this.dGVpass.RowsDefaultCellStyle = dataGridViewCellStyle2;
+            dataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            this.dGVpass.RowsDefaultCellStyle = dataGridViewCellStyle4;
             this.dGVpass.RowTemplate.Height = 24;
             this.dGVpass.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dGVpass.Size = new System.Drawing.Size(998, 227);
             this.dGVpass.TabIndex = 0;
+            this.dGVpass.CellFormatting += new System.Windows.Forms.DataGridViewCellFormattingEventHandler(this.dGVpass_CellFormatting);
             this.dGVpass.DoubleClick += new System.EventHandler(this.dGVpass_DoubleClick);
             // 
             // PassId
@@ -389,6 +391,7 @@
             this.btn_cancel.TabIndex = 4;
             this.btn_cancel.Text = "Cancel";
             this.btn_cancel.UseVisualStyleBackColor = false;
+            this.btn_cancel.Click += new System.EventHandler(this.btn_cancel_Click);
             // 
             // btn_Save
             // 

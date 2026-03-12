@@ -120,10 +120,10 @@
             // 
             // btn_showPassword
             // 
-            this.btn_showPassword.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btn_showPassword.BackgroundImage")));
             this.btn_showPassword.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.btn_showPassword.FlatAppearance.BorderSize = 0;
             this.btn_showPassword.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_showPassword.Image = ((System.Drawing.Image)(resources.GetObject("btn_showPassword.Image")));
             this.btn_showPassword.Location = new System.Drawing.Point(472, 75);
             this.btn_showPassword.Name = "btn_showPassword";
             this.btn_showPassword.Size = new System.Drawing.Size(38, 31);

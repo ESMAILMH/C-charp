@@ -120,25 +120,24 @@
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="btn_showPassword.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
-        iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAF3SURBVEhL7ZS7SkNBFEVTpDMYTWskYEDxJyT4K2rlF1hE
-        vyVlgmAjCoIgxsZCCwsbFQtbFR+o5ZId9o3nDgmxiVhkwcBw9j5n3lMoTPjXABVgE9gHHoAvN/UVk1ZJ
-        80YCFIEt4J3RyCNvMa0zEKAKnIcCR8AasARMuamvmLQM5VTTejmAGnDnhFtgJfWkyAPcOEe5tdTTAygB
-        1zaeAjNBmwd2gTe3Pa0i6GXgxLmqUeoXDqaWDZfR4OJP1iLP0oJPE1SuaPULW2xY+ATqiaaZC92aOZ/R
-        gWOdxFt3DdGIQtfB7ZhgTVsi+gfoVYnXvLunNa11YzAboJlzjx7gJe/uaTuDBsi26ANYSBJ0oELbou1R
-        8UPH2ol30Q9R/GyRxeyQL3TXQ1x3Xgea8pisahq4spY/ZBviNdWVKwdNs+5oz93aSfFZ4My5g6+pSB6a
-        Hs9vHtoqcO+c4Q8tY8hXsQ4se5Vq6m8Ax8E3+qvIGOtnFxnbdz3hT/kGG+8c+KcjC5EAAAAASUVORK5C
-        YII=
+        iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
+        EAAACxABrSO9dQAAAXdJREFUSEvtlLtKQ0EURVOkMxhNayRgQPEnJPgrauUXWES/JWWCYCMKgiDGxkIL
+        CxsVC1sVH6jlkh32jecOCbGJWGTBwHD2PmfeUyhM+NcAFWAT2AcegC839RWTVknzRgIUgS3gndHII28x
+        rTMQoAqchwJHwBqwBEy5qa+YtAzlVNN6OYAacOeEW2Al9aTIA9w4R7m11NMDKAHXNp4CM0GbB3aBN7c9
+        rSLoZeDEuapR6hcOppYNl9Hg4k/WIs/Sgk8TVK5o9QtbbFj4BOqJppkL3Zo5n9GBY53EW3cN0YhC18Ht
+        mGBNWyL6B+hVide8u6c1rXVjMBugmXOPHuAl7+5pO4MGyLboA1hIEnSgQtui7VHxQ8faiXfRD1H8bJHF
+        7JAvdNdDXHdeB5rymKxqGriylj9kG+I11ZUrB02z7mjP3dpJ8VngzLmDr6lIHpoez28e2ipw75zhDy1j
+        yFexDix7lWrqbwDHwTf6q8gY62cXGdt3PeFP+QYb7xz4pyMLkQAAAABJRU5ErkJggg==
 </value>
   </data>
   <data name="btn_resetPassword.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
-        iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAD9SURBVEhL7ZSxagJBEIYF22AZSB31SWJhniRpNb12+gTa
-        qA+hzxSwDGKhRfhk8V9Yxlm4VS+k8GuOnftmZm/vbhqNBwKY2thd4Ux9TdQg3yQRIntgDjSN11Q83M8x
-        TnNiYo6h8b6s4DBKc1yAN8k74EWxZ+BH8b7xqxePAGslLbVeab123LLiAaANHIBf4FPXI9Bx3MtzrwIw
-        0e4i/ldyLcAT8K3iW6BlnZv4iwbT5HgC9zsi4DV5yR/JS+46bnljYKNdL7Rear1x3LKnA3pKyv1o78aP
-        +E0SwTIw3tAKDpdNrKFhNssMuxAvG3a3khQvGxdVqbV4oJZj+RecACffQdwPuti7AAAAAElFTkSuQmCC
+        iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
+        EAAACxABrSO9dQAAAP1JREFUSEvtlLFqAkEQhgXbYBlIHfVJYmGeJGk1vXb6BNqoD6HPFLAMYqFF+GTx
+        X1jGWbhVL6Twa46d+2Zmb+9uGo0HApja2F3hTH1N1CDfJBEie2AONI3XVDzczzFOc2JijqHxvqzgMEpz
+        XIA3yTvgRbFn4EfxvvGrF48AayUttV5pvXbcsuIBoA0cgF/gU9cj0HHcy3OvAjDR7iL+V3ItwBPwreJb
+        oGWdm/iLBtPkeAL3OyLgNXnJH8lL7jpueWNgo10vtF5qvXHcsqcDekrK/Wjvxo/4TRLBMjDe0AoOl02s
+        oWE2ywy7EC8bdreSFC8bF1WptXiglmP5F5wAJ99B3A+62LsAAAAASUVORK5CYII=
 </value>
   </data>
   <data name="btn_resetPassId.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">

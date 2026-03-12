@@ -67,11 +67,15 @@ namespace WindowsFormsApp1.fproject
         }
 
         private void btn_showPassword_Click(object sender, EventArgs e)
-        { }
+        {
+            txt_pssword.UseSystemPasswordChar = !txt_pssword.UseSystemPasswordChar;
+            btn_showPassword.Text = txt_pssword.UseSystemPasswordChar ? "Show Password" : "Hide Password";
+
+        }
 
         private void frm_login_Load(object sender, EventArgs e)
         {
-
+                   txt_pssword.UseSystemPasswordChar = true;
         }
     }
 }
